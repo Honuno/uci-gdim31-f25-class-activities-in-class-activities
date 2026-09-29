@@ -1,7 +1,8 @@
 # in-class-activities
 ## Devlogs
 ### W1
-Write your W1 activity Devlog here.
+When I move the Camera off of the Cat GameObject, the cat would move but the camera wouldn't move with the cat anymore as it's not a child of the Cat anymore.
+https://blazersun.itch.io/w1-cat-activity
 
 ### W2
 Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
