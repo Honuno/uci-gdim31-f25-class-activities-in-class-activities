@@ -5,7 +5,25 @@ When I move the Camera off of the Cat GameObject, the cat would move but the cam
 https://blazersun.itch.io/w1-cat-activity
 
 ### W2
-Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
+1. The r, g, and b variables are floats instead of int, bools, or strings is because the values are all fractions for RGB.
+2. The _bounce variable is an int because it's a tracker for how many times the ball bounced. You can't do 2.4 bounces so you use whole number to track the amount of bounces and to do that you would use int.
+3. The reason the code had an error was because there wasn't an ";" at the end of the code, creating the error.
+
+###W3
+
+###W4
+
+###W5
+
+###W6
+
+###W7
+
+###W8
+
+###W9
+
+###W10
 
 ## Open-Source Assets
 ### W1
