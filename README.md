@@ -17,7 +17,10 @@ Activity 1
 3. bool DidPlayerHitBeat(float accuracy)
 
 Activity 2
-Imagine classes as the recipe for bread. You can't eat a recipe but it details on how to make the bread, which will be the Component. The Component will be the loaf of bread, the physical object created from the recipe. You can have many loaves of bread (component) made from this same recipe (classes), but each one exists independently in your kitchen (memory).
+Class: Taco shell
+Compoenent: Full taco (from **Taco Bell**)
+Member variables: Ingredients
+Methods: How you want the taco
 
 ###W4
 
