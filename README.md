@@ -10,6 +10,14 @@ https://blazersun.itch.io/w1-cat-activity
 3. The reason the code had an error was because there wasn't an ";" at the end of the code, creating the error.
 
 ###W3
+Table #2
+Activity 1
+1. String GetResponse(int choice, int friendshipLevel, bool secret)
+2. void SetLightDimness(int sanityLevel)
+3. bool DidPlayerHitBeat(float accuracy)
+
+Activity 2
+Imagine classes as the recipe for bread. You can't eat a recipe but it details on how to make the bread, which will be the Component. The Component will be the loaf of bread, the physical object created from the recipe. You can have many loaves of bread (component) made from this same recipe (classes), but each one exists independently in your kitchen (memory).
 
 ###W4
 
