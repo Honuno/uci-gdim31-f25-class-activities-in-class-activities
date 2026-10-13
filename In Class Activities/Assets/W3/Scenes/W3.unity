@@ -419,7 +419,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BallW3
   ballRenderer: {fileID: 286688786}
   _rigidbody: {fileID: 286688785}
-  _speedMultiplier: 1
+  _speedMultiplier: 1.2
   _speedThreshold: 10
 --- !u!58 &286688784
 CircleCollider2D:
@@ -732,7 +732,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BallW3
   ballRenderer: {fileID: 546757988}
   _rigidbody: {fileID: 546757987}
-  _speedMultiplier: 1
+  _speedMultiplier: 1.2
   _speedThreshold: 10
 --- !u!58 &546757986
 CircleCollider2D:
@@ -1532,7 +1532,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BallW3
   ballRenderer: {fileID: 1179775235}
   _rigidbody: {fileID: 1179775234}
-  _speedMultiplier: 5
+  _speedMultiplier: 1.2
   _speedThreshold: 10
 --- !u!58 &1179775233
 CircleCollider2D:
