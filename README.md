@@ -22,6 +22,9 @@ Compoenent: Full taco (from **Taco Bell**)
 Member variables: Ingredients
 Methods: How you want the taco
 
+Activity 3
+I think the reason for the balls brightness getting brighter and brighter with every bounce is because the brightness is being multiplied by a certain amount every bounce making it brighter and brighter.
+
 ###W4
 
 ###W5
