@@ -25,7 +25,12 @@ Methods: How you want the taco
 Activity 3
 I think the reason for the balls brightness getting brighter and brighter with every bounce is because the brightness is being multiplied by a certain amount every bounce making it brighter and brighter.
 
-###W4
+### W4
+Table #2
+
+1. The Goal was the one that need the "Is Trigger" checkmarked as it will allow the ball to pass through it. The ball and cat needed the rigid bodies so that they can hit each other and bounce off the walls.
+
+2. When the cat was rotating as I was moving it, I looked over the instructions again and once I went through them again I fixed the mistake.
 
 ###W5
 
