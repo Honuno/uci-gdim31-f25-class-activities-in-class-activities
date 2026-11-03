@@ -32,7 +32,15 @@ Table #2
 
 2. When the cat was rotating as I was moving it, I looked over the instructions again and once I went through them again I fixed the mistake.
 
-###W5
+### W5
+1. Needs 2 member variables
+  - First one is the NavMeshAgent class
+    - NavMeshAgent: lets you use the .SetDestination method to set where the deer wants to go.
+      - It doesn’t care where it is originally, only really cares about where it’s destination is.
+  - Second variable type is Transform class
+    - It lets it tell the variable the location of the goal
+2. The class needs the Start() method. 
+3. The method should set the destination to the position of our object we want to choose. For this instance, we want the deer to go to the cat.
 
 ###W6
 
