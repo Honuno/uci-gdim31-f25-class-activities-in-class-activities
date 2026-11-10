@@ -44,8 +44,22 @@ Table #2
 
 ###W6
 
-###W7
-
+### W7
+Activity 1
+ I worked on the math category
+ https://docs.google.com/document/d/1C6uCwfuqZOueFMv-xBgh9KSqakfdi0eeqCGhbDev6XM/edit?tab=t.0#heading=h.nw8cf7ozohf6 
+Activity 2
+- Set up the BatW6 Class
+  - Goal: Make the bats move toward the player when chasing is enabled.
+  - Member Variables: used _speed (to control how fast the bat moves), _isChasing (a true/false flag to check if it should move), and _playerTransform (to find where the player is)
+  - Method used
+    - Start(): Finds and caches the player's position using their tag.
+    - Update(): Constantly moves the bat toward the player using Vector3.MoveTowards() if _isChasing is true.
+    - StartChasing() & StopChasing(): Public methods that let BatManager turn the chasing behavior on or off.
+- Set up the BatManager
+  - Distance Checks: BatManager loops through all the bats in the _bats array every frame to measure the distance between each bat and the player.
+  - Delegating Control: If the player is close enough (within _interactDistance), BatManager calls StartChasing(). If the player is too far away, it calls StopChasing()
+  - Reactions & UI: When a bat gets close enough to overlap (_overlapDistance), BatManager picks a random message from the _messages array and spawns a reaction text bubble on the bat.
 ###W8
 
 ###W9
